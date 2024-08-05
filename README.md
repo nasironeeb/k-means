@@ -16,14 +16,6 @@ Markup :
 * Multiple iterations: The model executes any number of iterations.
 * Results display: Clustering results can be displayed graphically (2D or 3D).
 
-k-means/
-│
-├── kmeans_code.py        # Implementation of the K-means algorithm and other functions
-├── main.ipynb            # Main script for running examples
-├── iris_data.csv         # Examples of dataset test
-├── chat_data.csv         # Examples of dataset test
-├── README.md             # Ce fichier README
-└── requirements.txt      # List of dependencies
 
 ### Thanks
 Thanks to all those who contributed to the improvement of this project. This project was inspired by the desire to understand clustering algorithms in depth and to share this understanding with the community.
